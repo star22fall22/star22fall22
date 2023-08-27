@@ -9,6 +9,8 @@ Hi, my name is 墨兒. This GitHub account is for doujin activities, including p
 
 - E-mail電子信箱: star22fall22@gmail.com
 
+## 🌱 CONTRIBUTIONS 耕耘過程
+![](./profile-3d-contrib/profile-green.svg)
 
 
 <!--
